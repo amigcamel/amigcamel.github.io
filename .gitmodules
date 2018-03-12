@@ -1,0 +1,3 @@
+[submodule "Bingo"]
+	path = Bingo
+	url = https://github.com/amigcamel/Bingo
