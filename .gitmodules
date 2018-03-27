@@ -1,3 +1,7 @@
 [submodule "Bingo"]
 	path = Bingo
 	url = https://github.com/amigcamel/Bingo
+[submodule "crawler101"]
+	path = crawler101
+	url = https://github.com/amigcamel/reveal.js
+        branch = crawler101
