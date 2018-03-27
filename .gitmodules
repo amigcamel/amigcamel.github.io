@@ -2,10 +2,10 @@
 	path = Bingo
 	url = https://github.com/amigcamel/Bingo
 [submodule "crawler101"]
-	path = crawler101
+	path = slides/crawler101
 	url = https://github.com/amigcamel/reveal.js
         branch = crawler101
 [submodule "pycon2017"]
-	path = pycon2017
+	path = slides/pycon2017
 	url = https://github.com/amigcamel/reveal.js
         branch = pycon2017
