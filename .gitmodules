@@ -9,3 +9,7 @@
 	path = slides/pycon2017
 	url = https://github.com/amigcamel/reveal.js
         branch = pycon2017
+[submodule "mezzanine"]
+	path = slides/mezzanine
+	url = https://github.com/amigcamel/reveal.js
+        branch = mezzanine
