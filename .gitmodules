@@ -5,3 +5,7 @@
 	path = crawler101
 	url = https://github.com/amigcamel/reveal.js
         branch = crawler101
+[submodule "pycon2017"]
+	path = pycon2017
+	url = https://github.com/amigcamel/reveal.js
+        branch = pycon2017
