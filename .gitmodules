@@ -17,3 +17,6 @@
 	path = slides/crawler101-keypo
 	url = https://github.com/amigcamel/reveal.js
         branch = crawler101-keypo
+[submodule "wedding"]
+	path = wedding
+	url = https://github.com/amigcamel/wedding
