@@ -14,6 +14,6 @@
 	url = https://github.com/amigcamel/reveal.js
         branch = mezzanine
 [submodule "crawler101-keypo"]
-	path = crawler101-keypo
+	path = slides/crawler101-keypo
 	url = https://github.com/amigcamel/reveal.js
         branch = crawler101-keypo
