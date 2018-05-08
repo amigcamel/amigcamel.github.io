@@ -1,5 +1,5 @@
 [submodule "Bingo"]
-	path = Bingo
+	path = projects/Bingo
 	url = https://github.com/amigcamel/Bingo
 [submodule "crawler101"]
 	path = slides/crawler101
@@ -18,5 +18,5 @@
 	url = https://github.com/amigcamel/reveal.js
         branch = crawler101-keypo
 [submodule "wedding"]
-	path = wedding
+	path = projects/wedding
 	url = https://github.com/amigcamel/wedding
