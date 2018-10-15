@@ -17,6 +17,14 @@
 	path = slides/crawler101-keypo
 	url = https://github.com/amigcamel/reveal.js
         branch = crawler101-keypo
+[submodule "corpus-crawler"]
+	path = slides/corpus-crawler
+	url = https://github.com/amigcamel/reveal.js
+        branch = corpus-crawler
 [submodule "wedding"]
 	path = projects/wedding
 	url = https://github.com/amigcamel/wedding
+[submodule "slides/reveal.js"]
+	path = slides/corpus-crawler
+	url = https://github.com/amigcamel/reveal.js
+	branch = corpus-crawler
