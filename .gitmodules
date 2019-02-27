@@ -28,3 +28,7 @@
 	path = slides/corpus-crawler
 	url = https://github.com/amigcamel/reveal.js
 	branch = corpus-crawler
+[submodule "slides/ndmc-crawler"]
+	path = slides/ndmc-crawler
+	url = https://github.com/amigcamel/reveal.js
+	branch = ndmc-crawler
